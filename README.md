@@ -7,4 +7,6 @@ Codes and Info for Species Recognition App
  - Python skills Required (For Kivy Group):
     - [Object Oriented Programming](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
-#TODO: Will Add more things Tomorrow
+#TODO: Will Add more things Tomorrow 
+# why not today?
+
